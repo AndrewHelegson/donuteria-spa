@@ -1,0 +1,43 @@
+.header {
+    background-color: rgb(142, 127, 110);
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 50px 0 50px;
+}
+
+.header__logo {}
+
+.header__logo img {
+    width: 100px;
+}
+
+.header__list {
+    display: flex;
+
+}
+
+.header__item {
+    margin-right: 1rem;
+}
+
+.header__item a {
+    text-decoration: none;
+    color: black;
+}
+
+.header__item a {
+    transition: 0.15s ease-in;
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    color: black;
+    display: block;
+    height: 2rem;
+}
+
+.header__item a:hover {
+    color: rgb(69, 69, 69);
+    border-bottom: 1px solid black;
+}

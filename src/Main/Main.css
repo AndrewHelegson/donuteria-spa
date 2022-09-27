@@ -1,0 +1,44 @@
+.contentWrapper {}
+
+.aboutUsArticle {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.aboutUsArticle__image {}
+
+.aboutUsArticle__text {
+    margin-left: 20px;
+    width: 600px;
+}
+
+.aboutBakeryArticle {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.aboutBakeryArticle__image {}
+
+.aboutBakeryArticle__header {}
+
+.aboutBakeryArticle__text {
+    margin-left: 20px;
+    width: 600px;
+}
+
+
+
+.aboutOurHistoryArticle {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.aboutOurHistoryArticle__text {
+    margin-left: 20px;
+    width: 600px;
+}
+
+.aboutOurHistoryArticle__image {}

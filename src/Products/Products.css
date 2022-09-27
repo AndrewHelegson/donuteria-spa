@@ -1,0 +1,24 @@
+.wrapper {}
+
+.products {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.products__header {}
+
+.products__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.products__item {
+    margin: 0 10px;
+}
+
+.products__itemName {}
+
+.products__itemDescription {
+    width: 200px;
+}
