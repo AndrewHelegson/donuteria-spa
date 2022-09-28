@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import { Contacts } from './Contacts/Contacts';
 import { Footer } from './Footer/Footer';
@@ -8,12 +8,12 @@ import { Products } from './Products/Products';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className='wrapper' >
         <Header />
         <Routes>
           <Route
-            path='/'
+            exact path='/'
             element={<Main />}
           />
           <Route
@@ -28,7 +28,7 @@ function App() {
         <Footer />
 
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
