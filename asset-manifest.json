@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/donuteria-spa/static/css/main.901b5b2b.css",
-    "main.js": "/donuteria-spa/static/js/main.c09f71e1.js",
+    "main.css": "/donuteria-spa/static/css/main.d233dc93.css",
+    "main.js": "/donuteria-spa/static/js/main.6377cb3e.js",
     "static/js/787.28558d4e.chunk.js": "/donuteria-spa/static/js/787.28558d4e.chunk.js",
+    "static/media/cvetok.png": "/donuteria-spa/static/media/cvetok.83d5f4d7986f81ff9ae4.png",
     "static/media/logo.png": "/donuteria-spa/static/media/logo.28cf1f9fbc6f0b5191a4.png",
     "index.html": "/donuteria-spa/index.html",
-    "main.901b5b2b.css.map": "/donuteria-spa/static/css/main.901b5b2b.css.map",
-    "main.c09f71e1.js.map": "/donuteria-spa/static/js/main.c09f71e1.js.map",
+    "main.d233dc93.css.map": "/donuteria-spa/static/css/main.d233dc93.css.map",
+    "main.6377cb3e.js.map": "/donuteria-spa/static/js/main.6377cb3e.js.map",
     "787.28558d4e.chunk.js.map": "/donuteria-spa/static/js/787.28558d4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.901b5b2b.css",
-    "static/js/main.c09f71e1.js"
+    "static/css/main.d233dc93.css",
+    "static/js/main.6377cb3e.js"
   ]
 }
